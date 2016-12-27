@@ -1,0 +1,13 @@
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\bin\Debug\Rectangle_method.exe.config
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\bin\Debug\Rectangle_method.exe
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\bin\Debug\Rectangle_method.pdb
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\Rectangle_method.csprojResolveAssemblyReference.cache
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\MainWindow.baml
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\MainWindow.g.cs
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\App.g.cs
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\Rectangle_method_MarkupCompile.cache
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\Rectangle_method.g.resources
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\Rectangle_method.Properties.Resources.resources
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\Rectangle_method.csproj.GenerateResource.Cache
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\Rectangle_method.exe
+c:\users\fernandes\documents\visual studio 2012\Projects\Rectangle_method\Rectangle_method\obj\Debug\Rectangle_method.pdb
